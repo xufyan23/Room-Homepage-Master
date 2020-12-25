@@ -36,10 +36,7 @@ button {
 	}
 }
 
-h1,
-h2,
-h3,
-h4 {
+h1,h2,h3,h4 {
 	line-height: 1.2;
 	margin-bottom: 0.75rem;
 	font-family: "Spartan", sans-serif;
@@ -100,6 +97,7 @@ p {
 					width: 20px;
 					box-shadow: 0px 0px 0px 1px #ffff;
 					margin: 0 auto;
+					display: block;
 				}
 			}
 		}
