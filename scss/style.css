@@ -86,6 +86,7 @@ p {
 
 .header .navbar .nav-header .logo {
   margin: 0 auto;
+  cursor: pointer;
 }
 
 .header .navbar .nav-link {
